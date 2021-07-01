@@ -15,14 +15,15 @@ SO THAT our own site is optimized for search engines
 ## Things I changed
 
 ### HTML
-I updated all divs to more specific selectors\
-I added alt descriptions to the images, some image alts I left blank so page readers can still read them but they are unneccesary for the flow of the page\
-I updated the header elements to be in order from h1 to h4
+Updated all divs to more specific selectors\
+Ensured that the hrefs work properly with the given IDs\
+Added alt descriptions to the images, some image alts I left blank so page readers can still read them but they are unneccesary for the flow of the page\
+Updated the header elements to be in order from h1 to h4
 
 ### CSS
-I changed a div element to nav so that the css will still work properly\
-I combined multiple classes due to repeated code\
-I combined the font-family and added it to the body selector
+Changed a div element to nav so that the css will still work properly\
+Combined multiple classes due to repeated code\
+Combined the font-family and added it to the body selector
 
 ## Requirements
 
