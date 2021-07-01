@@ -15,6 +15,7 @@ SO THAT our own site is optimized for search engines
 ## Things I changed
 
 ### HTML
+Updated title to be more descriptive\
 Updated all divs to more specific selectors\
 Ensured that the hrefs work properly with the given IDs\
 Added alt descriptions to the images, some image alts I left blank so page readers can still read them but they are unneccesary for the flow of the page\
