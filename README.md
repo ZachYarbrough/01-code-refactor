@@ -1,17 +1,36 @@
-# Code Refactor Starter Code
+# Code Refactor Challenge
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
+Challenge 01 in the UT Coding Bootcamp
+
+## Prompt
+
+AS A marketing agency\
+I WANT a codebase that follows accessibility standards\
 SO THAT our own site is optimized for search engines
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Things I changed
+
+### HTML
+I updated all divs to more specific selectors\
+I added alt descriptions to the images, some image alts I left blank so page readers can still read them but they are unneccesary for the flow of the page\
+I updated the header elements to be in order from h1 to h4
+
+### CSS
+I changed a div element to nav so that the css will still work properly\
+I combined multiple classes due to repeated code\
+I combined the font-family and added it to the body selector
+
+## Requirements
+
+GIVEN a webpage meets accessibility standards\
+WHEN I view the source code\
+THEN I find semantic HTML elements\
+WHEN I view the structure of the HTML elements\
+THEN I find that the elements follow a logical structure independent of styling and positioning\
+WHEN I view the image elements\
+THEN I find accessible alt attributes\
+WHEN I view the heading attributes\
+THEN they fall in sequential order\
+WHEN I view the title element\
+THEN I find a concise, descriptive title\
+
