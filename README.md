@@ -6,7 +6,7 @@ Challenge 01 in the UT Coding Bootcamp
 
 https://zachyarbrough.github.io/01-code-refactor/
 
-![Screenshot of the website](assets/images/website-img.png?raw=true "Horiseon Website Screenshot")
+![Screenshot of the website](assets/images/website-img.png)
 
 ## Prompt
 
